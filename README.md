@@ -1,2 +1,2 @@
-## License
+# License
 This project is licensed under the MIT License. I chose the MIT License because it allows others to freely use and modify the code with minimal restrictions, while also providing legal protection.
